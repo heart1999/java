@@ -1,4 +1,4 @@
-package com.donglijiedian.javase;
+package com.ydj1999.javase;
 
 public class User {
 	private int age;
